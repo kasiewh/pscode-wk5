@@ -1,0 +1,45 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+
+a + b = c
+
+num1 + num2 = sum
+print sum
+
+ask for 2 numbers 
+add the 2 number together 
+print on the screen the sum of those 2 numbers
+
+num1 = userEntry
+num2 = userEntry
+num1 + num2 = sum
+print (sum)
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+n = userNum
+isEven = if n/2 print (true)
+else print (false) 
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+numbers = (1,2,3,4,5)
+sum = addNumbers
+quotient = divideNumbers(Numcount)
+
+min = numbers.lowest
+max = numbers.highest
+
+print (quotient)
+#average of list of numbers
+
+print (min,max)
+#description of lowest and highest entry of list
+
+-- END --
